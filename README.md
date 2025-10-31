@@ -1,5 +1,23 @@
 # lsabd-machine-learning-tutorials
 
+Tutorials machine learning for the Large Scale Analysis of Biomedical Data course
+
+## About
+
+This repository offers beginner-friendly Jupyter notebook tutorials that introduce core machine
+learning concepts and techniques, covering topics such as data preprocessing, dimensionality
+reduction, overfitting and regularization, classification, and regression.
+
+## Contents
+
+| Topic | Notebook |
+|-------|----------|
+| Data preprocessing | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CompOmics/lsabd-machine-learning-tutorials/blob/main/notebooks/1-data-preprocessing.ipynb) |
+| Dimensionality reduction | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CompOmics/lsabd-machine-learning-tutorials/blob/main/notebooks/2-dimensionality-reduction.ipynb) |
+| Overfitting and regularization | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CompOmics/lsabd-machine-learning-tutorials/blob/main/notebooks/3-overfitting.ipynb) |
+| Classification and regression | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CompOmics/lsabd-machine-learning-tutorials/blob/main/notebooks/4-classification-regression.ipynb) |
+
+
 ## Setup
 
 ### Open in Google Colab
