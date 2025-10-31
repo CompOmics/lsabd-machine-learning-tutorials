@@ -1,6 +1,5 @@
 # lsabd-machine-learning-tutorials
 
-w
 ## Setup
 
 ### Open in Google Colab
