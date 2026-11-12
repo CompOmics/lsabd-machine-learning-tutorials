@@ -5,8 +5,8 @@ Tutorials machine learning for the Large Scale Analysis of Biomedical Data cours
 ## About
 
 This repository offers beginner-friendly Jupyter notebook tutorials that introduce core machine
-learning concepts and techniques, covering topics such as data preprocessing, dimensionality
-reduction, overfitting and regularization, classification, and regression.
+learning concepts and techniques, covering topics such as data preprocessing, classification and
+regression, overfitting and regularization, model selection, and dimensionality reduction.
 
 ## Contents
 
@@ -14,6 +14,8 @@ reduction, overfitting and regularization, classification, and regression.
 |-------|----------|
 | Machine learning basics | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CompOmics/lsabd-machine-learning-tutorials/blob/main/notebooks/1-machine-learning-basics.ipynb) |
 | Overfitting and regularization | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CompOmics/lsabd-machine-learning-tutorials/blob/main/notebooks/2-overfitting.ipynb) |
+| Regression on real-life data | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CompOmics/lsabd-machine-learning-tutorials/blob/main/notebooks/3-real-life-regression.ipynb) |
+| Dimensionality reduction and latent spaces | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CompOmics/lsabd-machine-learning-tutorials/blob/main/notebooks/4-dimensionality-reduction.ipynb) |
 
 
 ## Setup
